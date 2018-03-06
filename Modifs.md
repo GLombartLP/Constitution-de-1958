@@ -20,9 +20,11 @@ La souveraineté nationale appartient au peuple qui l'exerce par ses représenta
 Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
 Le suffrage peut être direct ou indirect dans les conditions prévues par la Constitution. Il est toujours universel, égal et secret.
 Sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques.
+La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et fonctions électives.
 
 ## Article 4
 Les partis et groupements politiques concourent à l'expression du suffrage. Ils se forment et exercent leur activité librement. Ils doivent respecter les principes de la souveraineté nationale et de la démocratie.
+Ils contribuent à la mise en oeuvre du principe énoncé au dernier alinéa de l'article 3 dans les conditions déterminées par la loi.
 
 # Titre II
 Le Président de la République
