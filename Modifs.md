@@ -305,7 +305,7 @@ Le Conseil Constitutionnel veille à la régularité des opérations de référe
 
 ## Article 61
 Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
-Aux mêmes fins, les lois peuvent être déférées au Conseil Constitutionnel, avant leur promulgation, par le président de la République, le Premier Ministre, ou le Président de l'une ou l'autre assemblée.
+Aux mêmes fins, les lois peuvent être déférées au Conseil Constitutionnel, avant leur promulgation, par le président de la République, le Premier Ministre, le président de l'Assemblée nationale, le président du Sénat ou soixante députés ou soixante sénateurs.
 Dans les cas prévus aux deux alinéas précédents; le Conseil Constitutionnel doit statuer dans le délai d'un mois. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours.
 Dans ces mêmes cas, la saisine du Conseil Constitutionnel suspend le délai de promulgation.
 
