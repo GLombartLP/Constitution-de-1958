@@ -333,9 +333,14 @@ Les magistrats du siège sont inamovibles.
 
 ## Article 65
 Le Conseil Supérieur de la Magistrature est présidé par le Président de la République. Le Ministre de la Justice en est le vice-président de droit. Il peut suppléer le Président de la République.
-Le Conseil Supérieur comprend en outre neuf membres désignés par le Président de la République dans les conditions fixées par une loi organique.
-Le Conseil Supérieur de la Magistrature fait des propositions pour les nominations des magistrats du siège à la Cour de Cassation et pour celles de Premier Président de Cour d'Appel. Il donne son avis dans les conditions fixées par une loi organique sur les propositions du Ministre de la Justice relatives aux nominations des autres magistrats du siège. Il est consulté sur les grâces dans les conditions fixées par une loi organique.
-Le Conseil Supérieur de la Magistrature statue comme conseil de discipline des magistrats du siège. Il est alors présidée par le Premier Président de la Cour de Cassation.
+Le Conseil Supérieur de la Magistrature comprend deux formations, l'une compétente à l'égard des magistrats du siège, l'autre à l'égard des magistrats du parquet.
+La formation compétente à l'égard des magistrats du siège comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du siège et un magistrat du parquet, un conseiller d'Etat, désigné par le Conseil d'Etat, et trois personnalités n'appartenant ni au Parlement ni à l'ordre judiciaire, désignées respectivement par le Président de la République, le président de l'Assemblée nationale et le président du Sénat.
+La formation compétente à l'égard des magistrats du parquet comprend, outre le Président de la République et le garde des sceaux, cinq magistrats du parquet et un magistrat du siège, le conseiller d'Etat et les trois personnalités mentionnés à l'alinéa précédent.
+La formation du Conseil Supérieur de la Magistrature compétente à l'égard des magistrats du siège fait des propositions pour les nominations des magistrats du siège à la Cour de cassation, pour celles de premier président de cour d'appel et pour celles de président de tribunal de grande instance. Les autres magistrats du siège sont nommés sur son avis conforme.
+Elle statue comme conseil de discipline des magistrats du siège. Elle est alors présidée par le premier président de la Cour de cassation.
+La formation du Conseil Supérieur de la Magistrature compétente à l'égard des magistrats du parquet donne son avis pour les nominations concernant les magistrats du parquet, à l'exception des emplois auxquels il est pourvu en conseil des ministres.
+Elle donne son avis sur les sanctions disciplinaires concernant les magistrats du parquet. Elle est alors présidée par le procureur général près la Cour de cassation.
+Une loi organique détermine les conditions d'application du présent article.
 
 ## Article 66
 Nul ne peut être arbitrairement détenu.
@@ -351,9 +356,23 @@ Une loi organique fixe la composition de la Haute Cour, les règles de son fonct
 
 ## Article 68
 Le Président de la République n'est responsable des actes accomplis dans l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en accusation que par les deux assemblées statuant par un vote identique au scrutin public et à la majorité absolue des membres les composant ; il est jugé par la Haute Cour de Justice.
-Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. La procédure définie ci-dessus leur est applicable ainsi qu'à leurs complices dans le cas de complot contre la sûreté de l'État. Dans les cas prévus au présent alinéa, la Haute Cour est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent des lois pénales en vigueur au moment où les faits ont été commis.
 
 # Titre X
+De la responsabilité pénale des membres du Gouvernement
+
+## Article 68-1
+Les membres du Gouvernement sont pénalement responsables des actes accomplis dans l'exercice de leurs fonctions et qualifiés crimes ou délits au moment où ils ont été commis. 
+Ils sont jugés par la Cour de justice de la République.
+La Cour de justice de la République est liée par la définition des crimes et délits ainsi que par la détermination des peines telles qu'elles résultent de la loi.
+
+## Article 68-2
+La Cour de justice de la République comprend quinze juges : douze parlementaires élus, en leur sein et en nombre égal, par l'Assemblée nationale et par le Sénat après chaque renouvellement général ou partiel de ces assemblées et trois magistrats du siège à la Cour de cassation, dont l'un préside la Cour de justice de la République.
+Toute personne qui se prétend lésée par un crime ou un délit commis par un membre du Gouvernement dans l'exercice de ses fonctions peut porter plainte auprès d'une commission des requêtes.
+Cette commission ordonne soit le classement de la procédure, soit sa transmission au procureur général près la Cour de cassation aux fins de saisine de la Cour de justice de la République.
+Le procureur général près la Cour de cassation peut aussi saisir d'office la Cour de justice de la République sur avis conforme de la commission des requêtes.
+Une loi organique détermine les conditions d'application du présent article.
+
+# Titre XI
 Le Conseil Économique et Social
 
 ## Article 69
@@ -366,7 +385,7 @@ Le Conseil Économique et Social peut être également consulté par le Gouverne
 ## Article 71
 La composition du Conseil Économique et Social et ses règles de fonctionnement sont fixées par une loi organique.
 
-# Titre XI
+# Titre XII
 Des collectivités territoriales
 
 ## Article 72
@@ -389,7 +408,7 @@ Les citoyens de la République qui n'ont pas le statut civil de droit commun, se
 Les territoires d'Outre-Mer peuvent garder leur statut au sein de la République.
 S'ils en manifestent la volonté par délibération de leur assemblée territoriale prise dans le délai prévu au premier alinéa de l'article 91, ils deviennent soit départements d'Outre-Mer de la République, soit, groupés ou non entre eux, États membres de la Communauté.
 
-# Titre XII
+# Titre XIII
 De la Communauté
 
 ## Article 77
@@ -445,13 +464,13 @@ La situation de ces Etats au sein de la Communauté est déterminée par les acc
 ## Article 87
 Les accords particuliers conclus pour l'application du présent titre sont approuvés par le Parlement de la République et l'assemblée législative intéressée.
 
-# Titre XIII
+# Titre XIV
 Des accords d'association
 
 ## Article 88
 La République ou la Communauté peuvent conclure des accords avec des États qui désirent s'associer à elle pour développer leurs civilisations.
 
-# Titre XIV
+# Titre XV
 Des communautés européennes et de l'Union européenne
 
 ## Article 88-1
@@ -467,7 +486,7 @@ Sous réserve de réciprocité et selon les modalités prévues par le Traité s
 Le Gouvernement soumet à l'Assemblée nationale et au Sénat, dès leur transmission au Conseil des Communautés, les propositions d'actes communautaires comportant des dispositions de nature législative.
 Pendant les sessions ou en dehors d'elles, des résolutions peuvent être votées dans le cadre du présent article, selon des modalités déterminées par le règlement de chaque assemblée.
 
-# Titre XV
+# Titre XVI
 De la révision
 
 ## Article 89
@@ -477,7 +496,7 @@ Toutefois, le projet de révision n'est pas présenté au référendum lorsque l
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.
 
-# Titre XVI
+# Titre XVII
 Dispositions transitoires
 
 ## Article 90
@@ -499,5 +518,9 @@ Les peuples des États membres de la Communauté continuent à être représent�
 Les mesures législatives nécessaires à la mise en place des institutions et, jusqu'à cette mise en place, au fonctionnement des pouvoirs publics seront prises en Conseil des Ministres, après avis du Conseil d'État, par ordonnances ayant force de loi.
 Pendant le délai prévu à l'alinéa 1 er de l'article 91, le gouvernement est autorisé à fixer par ordonnances ayant force de loi et prises en la même forme le régime électoral des assemblées prévues par la Constitution.
 Pendant le même délai et dans les mêmes conditions, le Gouvernement pourra également prendre en toutes matières les mesures qu'il jugera nécessaires à la vie de la Nation, à la protection des citoyens ou à la sauvegarde des libertés.
+
+## Article 93
+Les dispositions de l'article 65 et du titre X, dans leur rédaction issue de la loi constitutionnelle n°93-952 du 27 juillet 1993, entreront en vigueur à la date de publication des lois organiques prises pour leur application.
+Les dispositions du titre X, dans leur rédaction issue de la loi constitutionnelle n°93-952 du 27 juillet 1993, sort applicables aux faits commis avant son entrée en vigueur.
 
 La présente loi sera exécutée comme Constitution de la République et de la Communauté.
