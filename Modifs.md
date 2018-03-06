@@ -190,6 +190,7 @@ La loi détermine les principes fondamentaux :
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 - du droit du travail, du droit syndical et de la sécurité sociale.
 Les lois de finances déterminent les ressources et les charges de l'État dans les conditions et sous les réserves prévues par une loi organique.
+Les lois de financement de la sécurité sociale déterminent les conditions générales de son équilibre financier et, compte tenu de leurs prévisions de recettes, fixent ses objectifs de dépenses, dans les conditions et sous les réserves prévues par une loi organique.
 Des lois de programme déterminent les objectifs de l'action économique et sociale de l'État.
 Les dispositions du présent article pourront être précisées et complétées par une loi organique.
 
@@ -211,7 +212,7 @@ A l'expiration du délai mentionné au premier alinéa du présent article, les 
 
 ## Article 39
 L'initiative des lois appartient concurremment au Premier Ministre et aux membres du Parlement.
-Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances sont soumis en premier lieu à l'Assemblée Nationale.
+Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée Nationale.
 
 ## Article 40
 Les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l'aggravation d'une charge publique.
@@ -253,6 +254,12 @@ Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les
 Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le Gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
 La Cour des Comptes assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.
+
+## Article 47-1
+Si l'Assemblée nationale ne s'est pas prononcée en première lecture dans le délai de vingt jours après le dépôt d'un projet, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze jours. Il est ensuite procédé dans les conditions prévues à l'article 45.
+Si le Parlement ne s'est pas prononcé dans un délai de cinquante jours, les dispositions du projet peuvent être mises en oeuvre par ordonnance.
+Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session et, pour chaque assemblée, au cours des semaines où elle a décidé de ne pas tenir séance, conformément au deuxième alinéa de l'article 28.
+La Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'application des lois de financement de la sécurité sociale.
 
 ## Article 48
 Sans préjudice de l'application des trois derniers alinéas de l'article 28, l'ordre du jour des assemblées comporte, par priorité et dans l'ordre que le Gouvernement a fixé, la discussion des projets de loi déposés par le Gouvernement et des propositions de loi acceptées par lui.
