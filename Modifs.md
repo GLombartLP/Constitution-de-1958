@@ -34,7 +34,7 @@ Le Président de la République veille au respect de la Constitution. Il assure,
 Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités.
 
 ## Article 6
-Le Président de la République est élu pour sept ans au suffrage universel direct. Les modalités d'application du présent article sont fixées par une loi organique.
+Le Président de la République est élu pour cinq ans au suffrage universel direct. Les modalités d'application du présent article sont fixées par une loi organique.
 
 ## Article 7
 Le président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour de scrutin, il est procédé, le deuxième dimanche suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
