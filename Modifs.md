@@ -1,5 +1,5 @@
 # Préambule
-Le peuple français proclame solennellement son attachement aux Droits de l'homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946.
+Le peuple français proclame solennellement son attachement aux Droits de l'homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789, confirmée et complétée par le préambule de la Constitution de 1946, ainsi qu'aux droits et devoirs définis dans la Charte de l'environnement de 2004.
 En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux Territoires d'Outre-Mer qui manifestent la volonté d'y adhérer des institutions  nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
 
 ## Article premier
@@ -189,6 +189,7 @@ La loi détermine les principes fondamentaux :
 - de l'organisation générale de la défense nationale ;
 - de la libre administration des collectivités territoriales, de leurs compétences et de leurs ressources ;
 - de l'enseignement ;
+- de la préservation de l'environnement ;
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 - du droit du travail, du droit syndical et de la sécurité sociale.
 Les lois de finances déterminent les ressources et les charges de l'État dans les conditions et sous les réserves prévues par une loi organique.
