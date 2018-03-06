@@ -10,6 +10,7 @@ La Communauté est fondée sur l'égalité et la solidarité des peuples qui la 
 De la souveraineté
 
 ## Article 2
+La langue de la République est le français.
 La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances.
 L'emblème national est le drapeau tricolore, bleu, blanc, rouge.
 L'hymne national est la « Marseillaise ».
@@ -283,7 +284,7 @@ Ils ne prennent effet qu'après avoir été ratifiés ou approuvés.
 Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.
 
 ## Article 54
-Si le Conseil Constitutionnel, saisi par le Président de la République, par le Premier Ministre ou par le Président de l'une ou l'autre assemblée, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de le ratifier ou de l'approuver ne peut intervenir qu'après la révision de la Constitution.
+Si le Conseil constitutionnel, saisi par le Président de la République, par le Premier Ministre, par le président de l'une ou l'autre assemblée ou par soixante députés ou soixante sénateurs, a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de ratifier ou d'approuver l'engagement international en cause ne peut intervenir qu'après la révision de la Constitution.
 
 ## Article 55
 Les traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.
@@ -378,7 +379,8 @@ Le régime législatif et l'organisation administrative des départements d'Outr
 
 ## Article 74
 Les territoires d'Outre-Mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République.
-Cette organisation est définie et modifiée par la loi après consultation de l'assemblée territoriale intéressée.
+Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui définissent, notamment, les compétences de leurs institutions propres, et modifiés, dans la même forme, après consultation de l'assemblée territoriale intéressée.
+Les autres modalités de leur organisation particulière sont définies et modifiées par la loi après consultation de l'assemblée territoriale intéressée.
 
 ## Article 75
 Les citoyens de la République qui n'ont pas le statut civil de droit commun, seul visé à l'article 34, conservent leur statut personnel tant qu'ils n'y ont pas renoncé.
@@ -450,6 +452,22 @@ Des accords d'association
 La République ou la Communauté peuvent conclure des accords avec des États qui désirent s'associer à elle pour développer leurs civilisations.
 
 # Titre XIV
+Des communautés européennes et de l'Union européenne
+
+## Article 88-1
+La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
+
+## Article 88-2
+Sous réserve de réciprocité, et selon les modalités prévues par le Traité sur l'Union européenne signé le 7 février 1992, la France consent aux transferts de compétences nécessaires à l'établissement de l'union économique et monétaire européenne ainsi qu'à la détermination des règles relatives au franchissement des frontières extérieures des Etats membres de la Communauté européenne.
+
+## Article 88-3
+Sous réserve de réciprocité et selon les modalités prévues par le Traité sur l'Union européenne signé le 7 février 1992, le droit de vote et d'éligibilité aux élections municipales peut être accordé aux seuls citoyens de l'Union résidant en France. Ces citoyens ne peuvent exercer les fonctions de maire ou d'adjoint ni participer à la désignation des électeurs sénatoriaux et à l'élection des sénateurs. Une loi organique votée dans les mêmes termes par les deux assemblées détermine les conditions d'application du présent article.
+
+## Article 88-4
+Le Gouvernement soumet à l'Assemblée nationale et au Sénat, dès leur transmission au Conseil des Communautés, les propositions d'actes communautaires comportant des dispositions de nature législative.
+Pendant les sessions ou en dehors d'elles, des résolutions peuvent être votées dans le cadre du présent article, selon des modalités déterminées par le règlement de chaque assemblée.
+
+# Titre XV
 De la révision
 
 ## Article 89
@@ -459,7 +477,7 @@ Toutefois, le projet de révision n'est pas présenté au référendum lorsque l
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'intégrité du territoire.
 La forme républicaine du Gouvernement ne peut faire l'objet d'une révision.
 
-# Titre XV
+# Titre XVI
 Dispositions transitoires
 
 ## Article 90
