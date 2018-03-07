@@ -366,9 +366,6 @@ Une loi organique détermine les conditions d'application du présent article.
 Nul ne peut être arbitrairement détenu.
 L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
 
-## Article 66-1
-Nul ne peut être condamné à la peine de mort.
-
 # Titre IX
 La Haute Cour
 
