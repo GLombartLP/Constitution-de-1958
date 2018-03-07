@@ -326,7 +326,7 @@ Il examine les réclamations et proclame les résultats du scrutin.
 Le Conseil Constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
 ## Article 60
-Le Conseil Constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et en proclame les résultats.
+Le Conseil Constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
 
 ## Article 61
 Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
@@ -497,6 +497,7 @@ Des communautés européennes et de l'Union européenne
 
 ## Article 88-1
 La République participe aux Communautés européennes et à l'Union européenne, constituées d'Etats qui ont choisi librement, en vertu des traités qui les ont instituées, d'exercer en commun certaines de leurs compétences.
+Elle peut participer à l'Union européenne dans les conditions prévues par le traité établissant une Constitution pour l'Europe signé le 29 octobre 2004.
 
 ## Article 88-2
 Sous réserve de réciprocité, et selon les modalités prévues par le Traité sur l'Union européenne signé le 7 février 1992, la France consent aux transferts de compétences nécessaires à l'établissement de l'union économique et monétaire européenne.
@@ -509,6 +510,9 @@ Sous réserve de réciprocité et selon les modalités prévues par le Traité s
 ## Article 88-4
 Le Gouvernement soumet à l'Assemblée nationale et au Sénat, dès leur transmission au Conseil de l'Union européenne, les projets ou propositions d'actes des Communautés européennes et de l'Union européenne comportant des dispositions de nature législative. Il peut également leur soumettre les autres projets ou propositions d'actes ainsi que tout document émanant d'une institution de l'Union européenne.
 Selon des modalités fixées par le règlement de chaque assemblée, des résolutions peuvent être votées, le cas échéant en dehors des sessions, sur les projets, propositions ou documents mentionnés à l'alinéa précédent.
+
+## Article 88-5
+Tout projet de loi autorisant la ratification d'un traité relatif à l'adhésion d'un Etat à l'Union européenne et aux Communautés européennes est soumis au référendum par le Président de la République.
 
 # Titre XVI
 De la révision
