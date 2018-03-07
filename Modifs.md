@@ -3,7 +3,7 @@ Le peuple français proclame solennellement son attachement aux Droits de l'homm
 En vertu de ces principes et de celui de la libre détermination des peuples, la République offre aux Territoires d'Outre-Mer qui manifestent la volonté d'y adhérer des institutions  nouvelles fondées sur l'idéal commun de liberté, d'égalité et de fraternité et conçues en vue de leur évolution démocratique.
 
 ## Article premier
-La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée.
+La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances.
 
 # Titre premier
 De la souveraineté
@@ -37,7 +37,7 @@ Il est le garant de l'indépendance nationale, de l'intégrité du territoire et
 Le Président de la République est élu pour cinq ans au suffrage universel direct. Les modalités d'application du présent article sont fixées par une loi organique.
 
 ## Article 7
-Le président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour de scrutin, il est procédé, le quatorzième jour suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
+Le président de la République est élu à la majorité absolue des suffrages exprimés. Si celle-ci n'est pas obtenue au premier tour de scrutin, il est procédé, le deuxième dimanche suivant, à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant après retrait de candidats plus favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour.
 Le scrutin est ouvert sur convocation du Gouvernement.
 L'élection du nouveau président a lieu vingt jours au moins et trente-cinq jours au plus avant l'expiration des pouvoirs du président en exercice.
 En cas de vacance de la Présidence de la République pour quelque cause que ce soit, ou d'empêchement constaté par le Conseil Constitutionnel saisi par le Gouvernement et statuant à la majorité absolue de ses membres, les fonctions du Président de la République, à l'exception de celles prévues aux articles 11 et 12 ci-dessous, sont provisoirement exercées par le Président du Sénat et, si celui-ci est à son tour empêché d'exercer ces fonctions, par le gouvernement.
@@ -74,7 +74,7 @@ Il ne peut être procédé à une nouvelle dissolution dans l'année qui suit ce
 ## Article 13
 Le Président de la République signe les ordonnances et les décrets délibérés en Conseil des Ministres.
 Il nomme aux emplois civils et militaires de l'État.
-Les conseillers d'État, le grand chancelier de la Légion d'Honneur, les ambassadeurs et envoyés extraordinaires, les conseillers maîtres à la Cour des Comptes, les préfets, les représentants de l'Etat dans les collectivités d'outre-mer régies par l'article 74 et en Nouvelle-Calédonie,  les officiers généraux, les recteurs des académies, les directeurs des administrations centrales sont nommés en Conseil des Ministres.
+Les conseillers d'État, le grand chancelier de la Légion d'Honneur, les ambassadeurs et envoyés extraordinaires, les conseillers maîtres à la Cour des Comptes, les préfets, les représentants du Gouvernement dans les Territoires d'Outre-Mer,  les officiers généraux, les recteurs des académies, les directeurs des administrations centrales sont nommés en Conseil des Ministres.
 Une loi organique détermine les autres emplois auxquels il est pourvu en Conseil des Ministres ainsi que les conditions dans lesquelles le pouvoir de nomination du Président de la République peut être par lui délégué pour être exercé en son nom.
 
 ## Article 14
@@ -187,7 +187,7 @@ La loi fixe également les règles concernant:
 - les nationalisations d'entreprises et les transferts de propriété d'entreprises du secteur public au secteur privé.
 La loi détermine les principes fondamentaux :
 - de l'organisation générale de la défense nationale ;
-- de la libre administration des collectivités territoriales, de leurs compétences et de leurs ressources ;
+- de la libre administration des collectivités locales, de leurs compétences et de leurs ressources ;
 - de l'enseignement ;
 - de la préservation de l'environnement ;
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
@@ -208,9 +208,6 @@ Sa prorogation au-delà de douze jours ne peut être autorisée que par le Parle
 Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire.
 Les textes de forme législative intervenus en ces matières peuvent être modifiés par décrets pris après avis du Conseil d'État. Ceux de ces textes qui interviendraient après l'entrée en vigueur de la présente Constitution ne pourront être modifiés par décret que si le Conseil Constitutionnel a déclaré qu'ils ont un caractère réglementaire en vertu de l'alinéa précédent.
 
-## Article 37-1
-La loi et le règlement peuvent comporter, pour un objet et une durée limités, des dispositions à caractère expérimental.
-
 ## Article 38
 Le Gouvernement peut, pour l'exécution de son programme, demander au Parlement l'autorisation de prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.
 Les ordonnances sont prises en Conseil des Ministres après avis du Conseil d'État. Elles entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation.
@@ -218,7 +215,7 @@ A l'expiration du délai mentionné au premier alinéa du présent article, les 
 
 ## Article 39
 L'initiative des lois appartient concurremment au Premier Ministre et aux membres du Parlement.
-Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée Nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales et les projets de loi relatifs aux instances représentatives des Français établis hors de France sont soumis en premier lieu au Sénat.
+Les projets de loi sont délibérés en Conseil des Ministres après avis du Conseil d'État et déposés sur le bureau de l'une des deux assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée Nationale.
 
 ## Article 40
 Les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l'aggravation d'une charge publique.
@@ -327,7 +324,7 @@ Il examine les réclamations et proclame les résultats du scrutin.
 Le Conseil Constitutionnel statue, en cas de contestation, sur la régularité de l'élection des députés et des sénateurs.
 
 ## Article 60
-Le Conseil Constitutionnel veille à la régularité des opérations de référendum prévues aux articles 11 et 89 et en proclame les résultats.
+Le Conseil Constitutionnel veille à la régularité des opérations de référendum et en proclame les résultats.
 
 ## Article 61
 Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil Constitutionnel qui se prononce sur leur conformité à la Constitution.
@@ -419,61 +416,17 @@ La composition du Conseil Économique et Social et ses règles de fonctionnement
 Des collectivités territoriales
 
 ## Article 72
-Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74. Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
-Les collectivités territoriales ont vocation à prendre les décisions pour l'ensemble des compétences qui peuvent le mieux être mises en oeuvre à leur échelon.
-Dans les conditions prévues par la loi, ces collectivités s'administrent librement par des conseils élus et disposent d'un pouvoir réglementaire pour l'exercice de leurs compétences.
-Dans les conditions prévues par la loi organique, et sauf lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti, les collectivités territoriales ou leurs groupements peuvent, lorsque, selon le cas, la loi ou le règlement l'a prévu, déroger, à titre expérimental et pour un objet et une durée limités, aux dispositions législatives ou réglementaires qui régissent l'exercice de leurs compétences.
-Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. Cependant, lorsque l'exercice d'une compétence nécessite le concours de plusieurs collectivités territoriales, la loi peut autoriser l'une d'entre elles ou un de leurs groupements à organiser les modalités de leur action commune.
-Dans les collectivités territoriales de la République, le représentant de l'Etat, représentant de chacun des membres du Gouvernement, a la charge des intérêts nationaux, du contrôle administratif et du respect des lois.
-
-## Article 72-1
-La loi fixe les conditions dans lesquelles les électeurs de chaque collectivité territoriale peuvent, par l'exercice du droit de pétition, demander l'inscription à l'ordre du jour de l'assemblée délibérante de cette collectivité d'une question relevant de sa compétence.
-Dans les conditions prévues par la loi organique, les projets de délibération ou d'acte relevant de la compétence d'une collectivité territoriale peuvent, à son initiative, être soumis, par la voie du référendum, à la décision des électeurs de cette collectivité.
-Lorsqu'il est envisagé de créer une collectivité territoriale dotée d'un statut particulier ou de modifier son organisation, il peut être décidé par la loi de consulter les électeurs inscrits dans les collectivités intéressées. La modification des limites des collectivités territoriales peut également donner lieu à la consultation des électeurs dans les conditions prévues par la loi.
-
-## Article 72-2
-Les collectivités territoriales bénéficient de ressources dont elles peuvent disposer librement dans les conditions fixées par la loi.
-Elles peuvent recevoir tout ou partie du produit des impositions de toutes natures. La loi peut les autoriser à en fixer l'assiette et le taux dans les limites qu'elle détermine.
-Les recettes fiscales et les autres ressources propres des collectivités territoriales représentent, pour chaque catégorie de collectivités, une part déterminante de l'ensemble de leurs ressources. La loi organique fixe les conditions dans lesquelles cette règle est mise en oeuvre.
-Tout transfert de compétences entre l'Etat et les collectivités territoriales s'accompagne de l'attribution de ressources équivalentes à celles qui étaient consacrées à leur exercice. Toute création ou extension de compétences ayant pour conséquence d'augmenter les dépenses des collectivités territoriales est accompagnée de ressources déterminées par la loi.
-La loi prévoit des dispositifs de péréquation destinés à favoriser l'égalité entre les collectivités territoriales.
-
-## Article 72-3
-La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité.
-La Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna et la Polynésie française sont régis par l'article 73 pour les départements et les régions d'outre-mer et pour les collectivités territoriales créées en application du dernier alinéa de l'article 73, et par l'article 74 pour les autres collectivités.
-Le statut de la Nouvelle-Calédonie est régi par le titre XIII.
-La loi détermine le régime législatif et l'organisation particulière des Terres australes et antarctiques françaises.
-
-## Article 72-4
-Aucun changement, pour tout ou partie de l'une des collectivités mentionnées au deuxième alinéa de l'article 72-3, de l'un vers l'autre des régimes prévus par les articles 73 et 74, ne peut intervenir sans que le consentement des électeurs de la collectivité ou de la partie de collectivité intéressée ait été préalablement recueilli dans les conditions prévues à l'alinéa suivant. Ce changement de régime est décidé par une loi organique.
-Le Président de la République, sur proposition du Gouvernement pendant la durée des sessions ou sur proposition conjointe des deux assemblées, publiées au Journal officiel, peut décider de consulter les électeurs d'une collectivité territoriale située outre-mer sur une question relative à son organisation, à ses compétences ou à son régime législatif. Lorsque la consultation porte sur un changement prévu à l'alinéa précédent et est organisée sur proposition du Gouvernement, celui-ci fait, devant chaque assemblée, une déclaration qui est suivie d'un débat.
+Les collectivités territoriales de la République sont les communes, les départements, les territoires d'Outre-Mer. Toute autre collectivité territoriale est créée par la loi.
+Ces collectivités s'administrent librement par des conseils élus et dans les conditions prévues par la loi.
+Dans les départements et les territoires, le délégué du Gouvernement a la charge des intérêts nationaux. du contrôle administratif et du respect des lois.
 
 ## Article 73
-Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
-Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées par la loi.
-Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées par la loi à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi.
-Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.
-La disposition prévue aux deux précédents alinéas n'est pas applicable au département et à la région de La Réunion.
-Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la demande de la collectivité concernée, dans les conditions et sous les réserves prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause les conditions essentielles d'exercice d'une liberté publique ou d'un droit constitutionnellement garanti.
-La création par la loi d'une collectivité se substituant à un département et une région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les formes prévues au second alinéa de l'article 72-4, le consentement des électeurs inscrits dans le ressort de ces collectivités.
+Le régime législatif et l'organisation administrative des départements d'Outre-Mer peuvent faire l'objet de mesures d'adaptation nécessitées par leur situation particulière.
 
 ## Article 74
-Les collectivités d'outre-mer régies par le présent article ont un statut qui tient compte des intérêts propres de chacune d'elles au sein de la République.
-Ce statut est défini par une loi organique, adoptée après avis de l'assemblée délibérante, qui fixe :
-- les conditions dans lesquelles les lois et règlements y sont applicables ;
-- les compétences de cette collectivité ; sous réserve de celles déjà exercées par elle, le transfert de compétences de l'Etat ne peut porter sur les matières énumérées au quatrième alinéa de l'article 73, précisées et complétées, le cas échéant, par la loi organique ;
-- les règles d'organisation et de fonctionnement des institutions de la collectivité et le régime électoral de son assemblée délibérante ;
-- les conditions dans lesquelles ses institutions sont consultées sur les projets et propositions de loi et les projets d'ordonnance ou de décret comportant des dispositions particulières à la collectivité, ainsi que sur la ratification ou l'approbation d'engagements internationaux conclus dans les matières relevant de sa compétence.
-La loi organique peut également déterminer, pour celles de ces collectivités qui sont dotées de l'autonomie, les conditions dans lesquelles :
-- le Conseil d'Etat exerce un contrôle juridictionnel spécifique sur certaines catégories d'actes de l'assemblée délibérante intervenant au titre des compétences qu'elle exerce dans le domaine de la loi ;
-- l'assemblée délibérante peut modifier une loi promulguée postérieurement à l'entrée en vigueur du statut de la collectivité, lorsque le Conseil constitutionnel, saisi notamment par les autorités de la collectivité, a constaté que la loi était intervenue dans le domaine de compétence de cette collectivité ; 
-- des mesures justifiées par les nécessités locales peuvent être prises par la collectivité en faveur de sa population, en matière d'accès à l'emploi, de droit d'établissement pour l'exercice d'une activité professionnelle ou de protection du patrimoine foncier ; 
-- la collectivité peut participer, sous le contrôle de l'Etat, à l'exercice des compétences qu'il conserve, dans le respect des garanties accordées sur l'ensemble du territoire national pour l'exercice des libertés publiques. 
-Les autres modalités de l'organisation particulière des collectivités relevant du présent article sont définies et modifiées par la loi après consultation de leur assemblée délibérante.
-
-## Article 74-1
-Dans les collectivités d'outre-mer visées à l'article 74 et en Nouvelle-Calédonie, le Gouvernement peut, dans les matières qui demeurent de la compétence de l'Etat, étendre par ordonnances, avec les adaptations nécessaires, les dispositions de nature législative en vigueur en métropole, sous réserve que la loi n'ait pas expressément exclu, pour les dispositions en cause, le recours à cette procédure. 
-Les ordonnances sont prises en conseil des ministres après avis des assemblées délibérantes intéressées et du Conseil d'Etat. Elles entrent en vigueur dès leur publication. Elles deviennent caduques en l'absence de ratification par le Parlement dans le délai de dix-huit mois suivant cette publication.
+Les territoires d'Outre-Mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République.
+Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui définissent, notamment, les compétences de leurs institutions propres, et modifiés, dans la même forme, après consultation de l'assemblée territoriale intéressée.
+Les autres modalités de leur organisation particulière sont définies et modifiées par la loi après consultation de l'assemblée territoriale intéressée.
 
 ## Article 75
 Les citoyens de la République qui n'ont pas le statut civil de droit commun, seul visé à l'article 34, conservent leur statut personnel tant qu'ils n'y ont pas renoncé.
